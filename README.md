@@ -22,7 +22,3 @@ This repository contains my C++ practice tasks, course-related assignments, asse
 ##  Purpose
 
 This repository is created to track my C++ learning progress and improve my programming skills.
-
----
-
-⭐ Feel free to explore the programs!
